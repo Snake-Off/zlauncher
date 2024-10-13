@@ -11,3 +11,5 @@
 ```
 ## Загрузки
 `ZLauncher Alpha 0.1.0` | `В разработке`
+## JAR-файлы (Если хотите создать сервер вручную)
+`Beta 1.6.5` | [Скачать]([https://hh.ru](https://github.com/Snake-Off/jars/releases/download/Beta/b1.6.6.jar))
